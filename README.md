@@ -4,8 +4,8 @@ This project is part of the freeCodeCamp Data Analysis with Python certification
 
 The program analyzes the dataset and answers the following questions:
 
-Count of people belonging to each race.
-Average age of men.
+* Count of people belonging to each race.
+* Average age of men.
 Percentage of people with a Bachelor's degree.
 Percentage of people with advanced education (Bachelor's, Master's, or Doctorate) who earn more than $50K.
 Percentage of people without advanced education who earn more than $50K.
